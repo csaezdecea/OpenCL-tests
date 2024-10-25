@@ -10,6 +10,7 @@ This C++ program performs vector addition using OpenCL to parallelize the comput
 
 ## To compile the codes:
 ```bash
+mkdir build
 cd build
 cmake ..
 make
